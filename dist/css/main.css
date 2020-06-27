@@ -258,6 +258,10 @@
           flex-direction: column;
 }
 
+.about .social-icons a {
+  text-align: center;
+}
+
 .about footer {
   -webkit-transform: rotate(90deg) translate(-3rem, -5rem);
           transform: rotate(90deg) translate(-3rem, -5rem);
